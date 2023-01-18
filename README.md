@@ -1,5 +1,5 @@
 # Bank Account Management
-#### A graphical user interface (GUI) programme that simulates online banking.
+### A graphical user interface (GUI) programme that simulates online banking.
 ![image](https://user-images.githubusercontent.com/82058058/213076779-51354ee9-d9f3-4271-80c8-510c5d077f5c.png)
 
 ## Team Composition
